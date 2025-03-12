@@ -4,7 +4,7 @@
 최신 영화와 인기 영화를 확인하고, 직접 리뷰를 남길 수 있습니다.  
 
 ## 🖼️ 프로젝트 개요  
-![Moviepedia UI](https://github.com/user-attachments/assets/e64f461d-a733-47f7-9e61-a2c3a2797b54)
+![Moviepedia UI](https://github.com/user-attachments/assets/0e9768fa-ac0b-4bdb-9f02-13ff5a25295d)
  
 
 ## 🚀 주요 기능  
